@@ -1,0 +1,90 @@
+Prabhash Kumar Shukla
+Address: A-1109, Proview Technocity Apartments
+Contact No: 9871818591
+Email ID: Prabhashshukla194@gmail.com
+
+Career Objective  : To work in a firm with professional work driven environments where I can utilize my skills and use them for organization benefits.
+Academic Qualification
+Course
+College/School
+University/Board
+Year of Passing
+% or Grade
+B.Tech 
+Galgotias University
+UGC 
+2019
+7.23
+Class 12
+
+Nehru Smarak Inter College
+State Board
+2014
+86%
+Class 10
+
+Nehru Smarak Inter College
+State Board
+2012
+80.8%
+
+Technical Competencies
+    • Operating Systems: Windows
+    • Programming Languages : Python 3,Octave
+    • Tools: Atom, Anaconda, OpenCV, VS Code
+
+
+
+Academic Projects
+
+Title: Sales Analysis
+Description: Sales data analysis using Kaggle ML
+Technologies: Python3, OpenCV ,Scikit-learn
+Team Size :1
+
+Title : Spam Classifier using different algorithm (ongoing)
+Description : In this we are making a spam classifier model using different spam filtering algorithm to check their accuracy and performance.
+Technologies : Python3, Anaconda
+Team Size :  4
+
+
+Title : Titanic Disaster Survival Analysis(Kaggle Competition)
+Description : I had to analyze the survival of people in this disaster with the help of given train and test dataset.
+Technologies : Python3, Jupyter Notebook, Numpy, Seaborn, Pandas, Sci-kit Learn
+Team Size :  1
+
+Professional Training & Certification
+Title: Machine learning 
+Duration:12 weeks
+Training Coverage: Basic Introduction to Machine learning Algorithms
+Organization: Stanford University
+
+Title: Programming in Python 
+Duration: 4 weeks
+Training Coverage: Introduction to Python
+Organization: University of Michigan
+
+
+
+
+
+Areas of Interest
+    • Club Football
+    • Machine Learning
+    • Kaggle
+    • Cloud Computing
+    • Artificial Intelligence
+    • Marvel comics
+    • Gaming
+    • Rock Music
+
+
+
+I hereby declare that the information given above is correct to the best of my knowledge.
+
+
+(Signature with date) 
+
+ (Name)
+
+

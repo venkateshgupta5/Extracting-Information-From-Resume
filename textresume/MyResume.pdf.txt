@@ -1,0 +1,167 @@
+Rishabh Jain
+
+I-43, Alpha-2,Commercial Belt ,Greater Noida
+
+9627017497
+
+rishabhjain130796@gmail.com
+
+
+
+  OBJECTIVE	To solve problems in a Creative and effective manner Where I can use my educational and technical skills to enhance the company’s growth.
+
+EDUCATION
+
+
+Course
+
+College/School
+University/Board
+Year of
+% or Grade
+
+
+
+
+
+Passing
+
+
+
+
+
+
+
+
+
+B.Tech (CSE)
+GALGOTIAS UNIVERSITY
+U.G.C
+2019
+8.15 CGPA
+
+
+
+
+
+(till 6th sem)
+
+
+
+
+
+
+
+
+Class 12th
+
+DMA-I  (MEERUT)
+C.B.S.E
+2014
+90.80%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class 10th
+
+C.V.P.S (MEERUT)
+C.B.S.E
+2012
+81.70%
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL COMPETENCIES
+
+
+
+
+• Language :
+Core Java
+
+
+
+
+    • Operating system:      Windows 7/8.1
+
+• Database:	MySQL,Oracle 10g,Oracle 11g XE,Mongo Db (familiar)
+
+• Tools:	Netbeans (IDE), IBM Cognos
+
+• FrameWork:	Bootstrap
+
+ACADEMIC PROJECTS
+
+    • Face Detection Portal
+
+This includes all the general details of the criminal along with his photo and past records so that the culprit can be identified by the operator.
+
+Technology Used: Core Java GUI ,Oracle Database.
+
+    • Farm Assistance (final year project)
+
+With the help of Google Assistance through android app and website, farmers get to know about weather conditions, crops and market rates (MSP) in nearby areas thus reducing “middle-money-eaters”.Also comparing market crop rates.
+
+Technology used: Bootstrap, JSP-Servlet, Google Assistance, Spark API, Android, relevant database.
+
+INTERNSHIP/SUMMER INTERN
+
+
+
+
+Organisation:
+Codules Technology
+Duration:
+Two Months (May 2018-July 2018)
+Role:
+Student (as a beginner)
+Description:
+Partially Completed a project (Kripturg) based on advance java concepts.
+
+WORKSHOPS/SEMINARS
+
+    • Attended Two days Ethical Hacking Workshop at IIT Delhi (during 3rd semester).
+    • Attended Huawei Industrial visit (during 4th semester).
+    • Participated in Rajasthan Hackathon 4.0 (during 6th semester).
+ACHIEVEMENTS
+
+    • Successfully completed two months course (Introduction to mobile App development) organized by NPTEL (IIT MADRAS) and got the certificate.
+
+    • Recently joined Oracle Academy and got individual membership to learn further.
+
+EXTRA CURRICULAR ACTIVITIES
+
+    • Participated in college events such as Treasure Hunt (our team won 1st prize ),Product Launch.
+    • Had been the member of PR team in University’s Club (during 3rd year).
+PERSONAL COMPETENCIES
+    • Team Player
+    • Self –Motivator
+    • Adaptive to changes
+
+AREAS OF INTEREST
+
+    • Knowing about new technologies
+    • Playing Badminton
+    • Meeting new people
