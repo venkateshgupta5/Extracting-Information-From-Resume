@@ -1,0 +1,145 @@
+Deepak Kumar
+
+raj.deeepak@gmail.com
++91 - 9654306960
+
+Developer | Community Leader | an
+Aspiring Entrepreneur
+
+New Delhi, India
+about.me/dipakkr
+linkedin.com/in/dipakkr
+github.com/dipakkr
+
+EDUCATION
+
+SKILLS AND EXPERTISE
+
+Bachelors In Technology (CSE)
+Galgotias University
+
+Python
+
+2015 – Present
+
+Tensorﬂow
+
+CGPA - 8.68(till 6th Sem)
+
+Intermediate
+D K Carmel High School
+2012 – 2015
+
+Django
+
+SQL
+
+Deep Learning
+MongoDB
+
+OpenCv
+
+ACHIEVEMENTS
+CBSE - 85%
+
+Smart India Hackathon
+Bagged 5th position
+
+Matriculation
+D K Carmel High School
+2011 – 2012
+
+Machine Learning
+
+Selected for European Innovation academy 2019
+Italy
+CBSE - 10 CGPA
+
+PROJECTS
+Autonomous Robotic Arm for Computer Vision
+application (08/2018 – Present)
+Using computer vision to build an autonomous robotic arm for
+detection and handling of objects.
+
+Action Recognition (05/2018 – 07/2018)
+Developed a 3D CNN model on the UCF-101 dataset to recognize
+actions in the video, achieved an considerable accuracy of 78%.
+
+Stock Price Prediction (09/2018 – 09/2019)
+Predicted the stock price using multiple algorithms and compared
+their accuracy.
+Got an accuracy of 95% with Random Forest
+
+INTERNSHIPS`
+Research Intern
+Malviya National Institue of Technology
+
+EXTRA CURRICULAR ACTIVITIES
+Organiser of NCR Biggest Campus Hackathon - MCH
+HACK
+Led the organising team. Hosted a panel discussion on Job Vs
+Entrepreneurship with Mr. Saurabh Jain(VP, Paytm) and Mr. Randhir Singh VP -IT at Max Life Insurance. Appreciated by Mr. Dhruv Galgotia - CE0,
+Galgotias University.
+
+Microsoft Student Partner
+Organized workshop and delivered sessions on latest technolgies to
+improve coding culture in campus. Active Community Member at MSTC,
+Delhi NCR.
+
+Founding Member - Galgotias Technical Club(IRIS)
+Delivered Talk on Deep Learning and Server side app development using
+Node.JS.
+
+College Representative - ECell, IIT Bombay
+Responsible for promoting entrepreneurship in culture by mean of social
+media, digital marketing and community managment.Worked under
+collaboration with Ecell IITB Team.
+
+CERTIFICATES
+
+05/2018 – 07/2018
+Jaipur
+Explored Action Recognition using Deep Convolutional Neural
+Network. Developed and a 3D CNN Model for Action recognition on
+UCF-101 dataset.
+
+Deep Learning Specialisation (06/2018 – Present)
+
+Mentor: Dr. Santosh Kr. Vipparthi
+
+Udemy
+
+Software Development Intern
+Internity and Rann Lab
+
+LANGUAGES
+
+05/2017 – 07/2017
+Greater Noida
+Developed an android application to check movies and Tv shows and
+give reviews. Awarded as Best Intern.
+
+Coursera
+
+Computer Vision (05/2018 – 06/2018)
+
+English
+
+Hindi
+
+Full Professional Proﬁciency
+
+Full Professional Proﬁciency
+
+Mentor: Mr. Umesh Kushwaha – CE0 - Rannlab
+
+INTERESTS
+Travelling
+
+Startups
+
+Reading
+
+Photography
+
+
